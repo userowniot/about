@@ -2,4 +2,4 @@
 
 :envelope: Email: userowniot@gmail.com
 
-:simple-github: GitHub: [https://github.com/userowniot/]()
+:simple-github: GitHub: [https://github.com/userowniot/](https://github.com/userowniot/)
