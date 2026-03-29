@@ -1,4 +1,4 @@
-# Contact
+# Kontakt
 
 :envelope: Email: userowniot@gmail.com
 

@@ -3,13 +3,14 @@ site_description: Open, privacy-first IoT projects
 site_author: userowniot
 
 nav:
-  - About: index.md
-  - Projects: projects.md
-  - Contact: contact.md
+  - O nás: index.md
+  - Produkty: products.md
+  - Realizace: realization.md
+  - Kontakt: contact.md
 
 theme:
   name: material
-  language: en
+  language: cs
   palette:
     primary: lime
     accent: indigo
